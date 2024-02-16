@@ -1,4 +1,4 @@
-
+# Python and Pyside 6 Calculator Project
 
 # Project Overview
 The objective of this project is to create a functional calculator that interacts with the user in an intelligent way, to satisfy their needs
